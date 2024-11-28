@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "消息",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "custom-tab-bar": "/uni_modules/niceui-tabBar/components/niceui-tabBar/niceui-tabBar"
+  }
+}

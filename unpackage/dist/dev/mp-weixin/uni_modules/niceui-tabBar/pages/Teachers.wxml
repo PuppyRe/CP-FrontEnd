@@ -1,0 +1,1 @@
+<view><view>我立了</view><custom-tab-bar vue-id="aeac77e0-1" items="{{tabItems}}" current-index="{{currentTab}}" color="{{color}}" selected-color="{{selectColor}}" data-event-opts="{{[['^itemClick',[['onTabClick']]]]}}" bind:itemClick="__e" bind:__l="__l"></custom-tab-bar></view>

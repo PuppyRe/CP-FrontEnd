@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/Home",
+    "pages/Register",
+    "uni_modules/niceui-tabBar/pages/Menu",
+    "uni_modules/niceui-tabBar/pages/Teachers",
+    "uni_modules/niceui-tabBar/pages/Message",
+    "uni_modules/niceui-tabBar/pages/My"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}

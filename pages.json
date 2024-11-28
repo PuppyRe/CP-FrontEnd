@@ -1,0 +1,64 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path" : "pages/Home",
+			"style" : 
+			{
+				"navigationBarTitleText" : "登录",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/Register",
+			"style" :
+			{
+				"navigationBarTitleText" : "注册",
+				"enablePullDownRefresh" : false
+			}
+		},
+	
+		{
+			"path" : "uni_modules/niceui-tabBar/pages/Menu",
+			"style" :
+			{
+				"navigationBarTitleText" : "主页",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "uni_modules/niceui-tabBar/pages/Teachers",
+			"style" :
+			{
+				"navigationBarTitleText" : "教师",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "uni_modules/niceui-tabBar/pages/Message",
+			"style" :
+			{
+				"navigationBarTitleText" : "消息",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "uni_modules/niceui-tabBar/pages/My",
+			"style" :
+			{
+				"navigationBarTitleText" : "我的",
+				"enablePullDownRefresh" : false
+			}
+		}
+				
+	],
+	
+	
+	
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}
